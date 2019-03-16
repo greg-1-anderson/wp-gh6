@@ -1,0 +1,14 @@
+uuid: cea88202-f2cd-4ce8-8f89-28766a1fb371
+name: wp-gh6
+mail: greg.1.anderson@greenknowe.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
